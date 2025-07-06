@@ -16,7 +16,6 @@ This is a basic calculator web application built with HTML and CSS. It allows us
 
 - [`index.html`](index.html): Main HTML file containing the calculator layout and inline button logic.
 - [`style.css`](style.css): CSS file for styling the calculator and making it visually appealing.
-- [`.vscode/settings.json`](.vscode/settings.json): VS Code settings for Live Server port configuration.
 
 ## How to Use
 

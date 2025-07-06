@@ -28,4 +28,14 @@ This is a basic calculator web application built with HTML and CSS. It allows us
 ## Notes
 
 - The calculator uses the JavaScript `eval()` function for evaluation, which is suitable for simple use cases but not recommended for production or untrusted input.
-- All logic is handled inline via the
+- All logic is handled inline via the `onclick` attributes in the HTML.
+
+
+
+## License
+
+This project is for educational and personal use.
+
+---
+
+**Created by Abdiwasa Abdilahi Abdi**

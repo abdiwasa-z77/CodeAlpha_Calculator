@@ -30,7 +30,8 @@ This is a basic calculator web application built with HTML and CSS. It allows us
 - The calculator uses the JavaScript `eval()` function for evaluation, which is suitable for simple use cases but not recommended for production or untrusted input.
 - All logic is handled inline via the `onclick` attributes in the HTML.
 
-
+## Explanation Video
+https://www.linkedin.com/posts/abdiwasa-abdilahi-abdi-jirde-492405313_frontenddevelopment-codealphainternship-javascriptprojects-activity-7348687742316199936-T7v-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-dxG4BkyTkPS41flNqolY3vnYuaxVvbx4
 
 ## License
 
